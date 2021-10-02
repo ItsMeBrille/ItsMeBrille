@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ItsMeBrille
+- 👀 I’m interested in IT and Web development
+- 🌱 I’m currently in high school learning about electonics
+- 💞️ If you need help or want to collaborate, I’m looking forward to hear about it.
