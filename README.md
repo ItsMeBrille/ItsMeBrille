@@ -41,7 +41,7 @@ Here are a couple of modules I've developed for the [Magic Mirror](https://magic
 
 * [MMM-Keypress](https://github.com/ItsMeBrille/MMM-Keypress) - A module that allows you to control your MagicMirror using your keyboard.
 * [MMM-Bensinpriser](https://github.com/ItsMeBrille/MMM-Bensinpriser) - A module to display current fuel prices in Norway on your Magic Mirror.
-* [MMM-FlagRise](https://github.com/ItsMeBrille/MMM-FlagRise) - A module to display a flag according to national flag rules. (Norwegian rules)
+* [MMM-FlagRise](https://github.com/ItsMeBrille/MMM-FlagRise) - A module to raise an image of a flag according to national flag rules. (Norwegian rules)
 
 Feel free to use these modules in your own projects and ask if you need any help!
 
