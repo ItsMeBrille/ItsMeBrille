@@ -1,18 +1,14 @@
 # Hello, I'm ItsMeBrille! 👋
 
-🚀 Programming Enthusiast | 🇳🇴 Norway | 🛡️ Cyber Engineering Student
+🚀 Programming Enthusiast | 🇳🇴 Norway
 
-Welcome to my GitHub dashboard world where I share some of my most facinating lines of code from some of my many projects!
+Welcome to my GitHub dashboard world where I share some of my most fascinating lines of code from some of my many projects!
 
-- 🔭 Currently exploring the realm of Cyber Engineering and diving into security matters.
-- 🌱 Always learning and experimenting with a variety of technologies, languages, and frameworks.
-- 👯 Eager to collaborate on exciting open-source projects or discuss tech-related topics.
-- ⚡ Fun fact: I enjoy solving complex puzzles and tinkering with tech gadgets.
-
-### Interests:
-
-🤖 Exploring the realms of Machine Learning and AI
-📚 Learning about Data Structures and Algorithms (still a work in progress!)
+- 🔭 Currently diving into security matters.
+- 🌱 Experimenting with a variety of technologies, languages, and frameworks.
+- 👯 Message me if you want to collaborate.
+- 🤖 Exploring the realms of Machine Learning and AI
+- 📚 Learning about Data Structures and Algorithms
 
 ### Languages and Tools:
 
