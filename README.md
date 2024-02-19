@@ -7,7 +7,6 @@ Welcome to my GitHub dashboard world where I share some of my most fascinating l
 - 🔭 Currently diving into security matters.
 - 🌱 Experimenting with a variety of technologies, languages, and frameworks.
 - 👯 Message me if you want to collaborate.
-- 🤖 Exploring the realms of Machine Learning and AI
 - 📚 Learning about Data Structures and Algorithms
 
 ### Languages and Tools:
