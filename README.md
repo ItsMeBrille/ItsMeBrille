@@ -2,12 +2,7 @@
 
 🚀 Programming Enthusiast | 🇳🇴 Norway
 
-Welcome to my GitHub dashboard world where I share some of my most fascinating lines of code from some of my many projects!
-
-- 🔭 Currently diving into security matters.
-- 🌱 Experimenting with a variety of technologies, languages, and frameworks.
-- 👯 Message me if you want to collaborate.
-- 📚 Learning about Data Structures and Algorithms
+Welcome to my GitHub dashboard where I share some of my most fascinating lines of code from some of my many projects! In addition to code projects, there are projects involving 3D printing, laser cutting, and microcontrollers. You may also find some writeups from various CTF events.
 
 ### Languages and Tools:
 
@@ -35,11 +30,19 @@ Welcome to my GitHub dashboard world where I share some of my most fascinating l
 
 Here are some (out of many) modules I've developed for the [Magic Mirror](https://magicmirror.builders/) open-source project:
 
-* [MMM-Keypress](https://github.com/ItsMeBrille/MMM-Keypress) - A module that allows you to control your MagicMirror using your keyboard.
-* [MMM-Bensinpriser](https://github.com/ItsMeBrille/MMM-Bensinpriser) - A module to display current fuel prices in Norway on your Magic Mirror.
-* [MMM-MinecraftServer](https://github.com/ItsMeBrille/MMM-MinecraftServer) - A module for showing Minecraft server info, and monitoring current online players.
+- [MMM-Keypress](https://github.com/ItsMeBrille/MMM-Keypress) - A module that allows you to control your MagicMirror using your keyboard.
+- [MMM-Bensinpriser](https://github.com/ItsMeBrille/MMM-Bensinpriser) - A module to display current fuel prices in Norway on your Magic Mirror.
+- [MMM-MinecraftServer](https://github.com/ItsMeBrille/MMM-MinecraftServer) - A module for showing Minecraft server info, and monitoring current online players.
+- [MMM-WebTracker](https://github.com/ItsMeBrille/MMM-WebTracker) - A module to fetch a specific element from a website and display it.
 
-Feel free to use these modules in your own projects and ask if you need any help!
+Feel free to use these modules in your own projects. Please leave issues and ask if you need any help!
+
+#### Microcontroller Projects:
+
+These are some of my many tinkering projects. The repos mostly include all the files and docs necessary for you to replicate:
+
+- [MMM-NeoMatrix](https://github.com/ItsMeBrille/NeoMatrix) - A good-looking laser-cut Arduino matrix light.
+- [RPi-ATEM project](https://github.com/ItsMeBrille/RPi-ATEM) - A Raspberry Pi project for controlling cameras and automating live streaming for live events.
 
 ### GitHub Stats:
 ![Brille's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMeBrille&show_icons=true&theme=radical)
