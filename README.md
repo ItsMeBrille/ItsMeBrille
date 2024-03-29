@@ -41,7 +41,7 @@ Feel free to use these modules in your own projects. Please leave issues and ask
 
 These are some of my many tinkering projects. The repos mostly include all the files and docs necessary for you to replicate:
 
-- [MMM-NeoMatrix](https://github.com/ItsMeBrille/NeoMatrix) - A good-looking laser-cut Arduino matrix light.
+- [NeoMatrix](https://github.com/ItsMeBrille/NeoMatrix) - A good-looking laser-cut Arduino matrix light.
 - [RPi-ATEM project](https://github.com/ItsMeBrille/RPi-ATEM) - A Raspberry Pi project for controlling cameras and automating live streaming for live events.
 
 ## GitHub Stats:
