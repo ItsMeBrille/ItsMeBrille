@@ -42,7 +42,8 @@ Feel free to use these modules in your own projects. Please leave issues and ask
 These are some of my many tinkering projects. The repos mostly include all the files and docs necessary for you to replicate:
 
 - [NeoMatrix](https://github.com/ItsMeBrille/NeoMatrix) - A good-looking laser-cut Arduino matrix light.
-- [RPi-ATEM project](https://github.com/ItsMeBrille/RPi-ATEM) - A Raspberry Pi project for controlling cameras and automating live streaming for live events.
+- [ATmega32 Projects](https://github.com/ItsMeBrille/atmega32-projects) - Snippets, examples and cheatsheets for programming ATmega32
+- [RPi-ATEM Project](https://github.com/ItsMeBrille/RPi-ATEM) - A Raspberry Pi project for controlling cameras and automating live streaming for live events.
 
 ## GitHub Stats:
 ![Brille's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMeBrille&show_icons=true&theme=radical)
