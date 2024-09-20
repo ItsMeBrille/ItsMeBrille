@@ -25,10 +25,16 @@ Welcome to my GitHub dashboard where I share some of my most fascinating lines o
 
 ## Recent Projects:
 
+### CTF Writeups
+
+My CTF repos. Includes tools, solutions, and some challenges I made:
+- [CTF Writeups](https://github.com/ItsMeBrille/ctf-writeups) - My collection of writeups and solutions for various competitions.
+- [CTF Tools](https://github.com/ItsMeBrille/ctf-tools) - A collection of useful tools and scripts.
+- [CTF Writeups](https://github.com/ItsMeBrille/ctf-challenges) - Set of different challenges that I made (flags are encrypted)
+
 ### MagicMirror Modules:
 
 Here are some (out of many) modules I've developed for the [Magic Mirror](https://magicmirror.builders/) open-source project:
-
 - [MMM-Keypress](https://github.com/ItsMeBrille/MMM-Keypress) - A module that allows you to control your MagicMirror using your keyboard.
 - [MMM-Bensinpriser](https://github.com/ItsMeBrille/MMM-Bensinpriser) - A module to display current fuel prices in Norway on your Magic Mirror.
 - [MMM-MinecraftServer](https://github.com/ItsMeBrille/MMM-MinecraftServer) - A module for showing Minecraft server info, and monitoring current online players.
@@ -36,11 +42,9 @@ Here are some (out of many) modules I've developed for the [Magic Mirror](https:
 
 Feel free to use these modules in your own projects. Please leave issues and ask if you need any help!
 
-
 ### Microcontroller Projects:
 
 These are some of my many tinkering projects. The repos mostly include all the files and docs necessary for you to replicate:
-
 - [NeoMatrix](https://github.com/ItsMeBrille/NeoMatrix) - A good-looking laser-cut Arduino matrix light.
 - [ATmega32 Projects](https://github.com/ItsMeBrille/atmega32-projects) - Snippets, examples and cheatsheets for programming ATmega32
 - [RPi-ATEM Project](https://github.com/ItsMeBrille/RPi-ATEM) - A Raspberry Pi project for controlling cameras and automating live streaming for live events.
