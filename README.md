@@ -1,6 +1,4 @@
-# Hello, I'm ItsMeBrille! 👋
-
-🚀 Programming Enthusiast | 🇳🇴 Norway
+# Hello, I'm Brille! 👋
 
 Welcome to my GitHub dashboard where I share some of my most fascinating lines of code from some of my many projects! In addition to code projects, there are projects involving 3D printing, laser cutting, and microcontrollers. You may also find some writeups from various CTF events.
 
