@@ -28,7 +28,7 @@ Welcome to my GitHub dashboard where I share some of my most fascinating lines o
 My CTF repos. Includes tools, solutions, and some challenges I made:
 - [CTF Writeups](https://github.com/ItsMeBrille/ctf-writeups) - My collection of writeups and solutions for various competitions.
 - [CTF Tools](https://github.com/ItsMeBrille/ctf-tools) - A collection of useful tools and scripts.
-- [CTF Writeups](https://github.com/ItsMeBrille/ctf-challenges) - Set of different challenges that I made (flags are encrypted)
+- [CTF Challenges](https://github.com/ItsMeBrille/ctf-challenges) - Set of different challenges that I made (flags are encrypted)
 
 ### MagicMirror Modules:
 
